@@ -1,0 +1,8 @@
+{
+  "name": "helpdesk-test-app",
+  "version": "1.0.1",
+  "main": "starting.js",
+  "dependencies": {
+    "helpdesk-app": "^1.1.0"
+  }
+}
